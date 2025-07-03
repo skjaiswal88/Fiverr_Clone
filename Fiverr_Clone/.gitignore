@@ -1,0 +1,19 @@
+# Environment files
+client/.env
+api/.env
+
+# Node dependencies
+client/node_modules/
+api/node_modules/
+
+# Build output
+client/build/
+client/dist/
+api/dist/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
